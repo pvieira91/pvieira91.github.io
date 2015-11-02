@@ -5,20 +5,19 @@ date:   2013-11-10 10:18:00
 categories: Thriller Comedy Horror
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+#Hi =)
 
-Jekyll also offers powerful support for code snippets:
+Welcome to my blog. I’m Pedro Vieira and I’m currently working at [Mindera](http://www.mindera.com)as Frontend Engineer.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+For the past two years I’ve been learning a lot from great software bloggers. I’m deeply grateful to be part of this profession where gurus enjoy sharing their knowledge. Other than the sharing of knowledge, having a blog is also important for our continuous improvement. So, those are the main reasons behind the creation of this blog.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+###Areas of interest:
+Web Components, Components-Based Architecture, Clean code, Software Craftsmanship, TDD;
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+###References:
+Software: Uncle Bob, Martin Fowler, Kent Beck, Addy Osmani, Nicholas Zakas, David Walsh;
+General: Olof Palme, Tolstói, Henry David Thoreau, Gandhi, Boaventura Sousa Santos.
+
+###Hobbies:
+Politics, economics, philosophy, science, sports, movies, music.
+
