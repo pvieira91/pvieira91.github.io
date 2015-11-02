@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hi!"
+title:  "Welcome to my blog"
 date:   2015-11-02 23:43:00
 categories: Welcome
 ---
