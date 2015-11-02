@@ -3,9 +3,7 @@ layout: post
 title:  "Welcome to my blog"
 date:   2015-11-02 23:43:00
 categories: Welcome
-excerpt: #Hi =)
-
-Welcome to my blog. I’m Pedro Vieira and I’m currently working at [Mindera](http://www.mindera.com) as Frontend Engineer.
+excerpt: #Hi =) <p>Welcome to my blog. I’m Pedro Vieira and I’m currently working at [Mindera](http://www.mindera.com) as Frontend Engineer.</p>
 ---
 
 #Hi =)
