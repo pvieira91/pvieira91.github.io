@@ -4,7 +4,7 @@ meta_description: "Pedro Vieira, Software Craftsman Apprentice"
 
 markdown: redcarpet
 highlighter: pygments
-logo: false
+logo: http://img14.deviantart.net/2c2d/i/2015/306/c/6/365_challenge_day_306_by_fleur_de_noel-d9f9nxl.jpg
 paginate: 15
 baseurl: /
 domain_name: 'http://pvieira91.github.io'
