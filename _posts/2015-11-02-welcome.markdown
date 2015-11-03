@@ -16,8 +16,6 @@ Web Components, Components-Based Architecture, Clean code, Software Craftsmanshi
 ###References:
 Software: Uncle Bob, Martin Fowler, Kent Beck, Addy Osmani, Nicholas Zakas, David Walsh;
 
-General: Olof Palme, Tolstói, Henry David Thoreau, Gandhi, Boaventura Sousa Santos.
-
 ###Hobbies:
 Politics, economics, philosophy, science, sports, movies, music.
 
