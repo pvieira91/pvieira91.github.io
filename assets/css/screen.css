@@ -761,8 +761,12 @@ body:not(.post-template) .post-title {
 .read-more {
     font-weight: bold;
     text-decoration: underline;
-        font-style: italic;
+    font-style: italic;
     transition: all 0.3s ease-in-out;
+}
+
+.read-more:hover{
+   margin-left:10px;
 }
 
 
