@@ -6,6 +6,7 @@ categories: Welcome
 ---
 
 ##Hi =)
+
 Welcome to my blog. I’m Pedro Vieira and I’m currently working at [Mindera](http://www.mindera.com) as Frontend Engineer.
 
 For the past two years I’ve been learning a lot from great software bloggers. I’m deeply grateful to be part of this profession where gurus enjoy sharing their knowledge. Other than the sharing of knowledge, having a blog is also important for our continuous improvement. So, those are the main reasons behind the creation of this blog.
