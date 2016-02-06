@@ -466,7 +466,6 @@ margin on the iframe, cause it breaks stuff. */
 .vertical:before {
     background-size: 100% auto;
     opacity: 0.4;
-    background-position: 0px -250px;
     background-image: url("http://images6.alphacoders.com/473/473253.jpg");
     content: "";
     display: block;
@@ -474,8 +473,17 @@ margin on the iframe, cause it breaks stuff. */
     width: 100%;
     height: 100%;
     top: 0;
+    transition: all 0.7s ease-in-out;
+    background-position: center center;
+    -webkit-filter: blur(3px);
+    filter: blur(3px);
 }
 
+.vertical:hover:before {
+   background-size: 150% auto;
+   -webkit-filter: blur(0px);
+    filter: blur(0px);
+}
 
 /* ==========================================================================
    4. General - The main styles for the the theme
