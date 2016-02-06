@@ -763,10 +763,11 @@ body:not(.post-template) .post-title {
     text-decoration: underline;
     font-style: italic;
     transition: all 0.3s ease-in-out;
+    opacity: 0.85;
 }
 
 .read-more:hover{
-   margin-left:10px;
+   opacity: 1;
 }
 
 
