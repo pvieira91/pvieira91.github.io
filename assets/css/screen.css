@@ -463,6 +463,19 @@ margin on the iframe, cause it breaks stuff. */
     vertical-align: middle;
 }
 
+.vertical:before {
+    background-size: 100% auto;
+    opacity: 0.4;
+    background-position: 0px -250px;
+    background-image: url("http://images6.alphacoders.com/473/473253.jpg");
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+
 
 /* ==========================================================================
    4. General - The main styles for the the theme
