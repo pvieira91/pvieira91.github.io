@@ -17,5 +17,5 @@ Javascript, Web Components, Components-Based Architecture, Clean code, Software 
 Software: Uncle Bob, Martin Fowler, Kent Beck, Addy Osmani, Nicholas Zakas, David Walsh;
 
 ###Hobbies:
-Politics, economics, philosophy, science, sports, movies, music.
+Politics, economics, sports, movies, music.
 
