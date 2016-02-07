@@ -466,7 +466,7 @@ margin on the iframe, cause it breaks stuff. */
 .vertical:before {
     background-size: 100% auto;
     opacity: 0.4;
-    background-image: url("http://images6.alphacoders.com/473/473253.jpg");
+    background-image: url("/assets/images/porto.jpg");
     content: "";
     display: block;
     position: absolute;
