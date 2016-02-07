@@ -480,8 +480,9 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .vertical:hover:before {
-   background-size: 115% auto;
-   -webkit-filter: blur(0px);
+    background-size: 170% auto;
+    background-position: 50% 0%;
+    -webkit-filter: blur(0px);
     filter: blur(0px);
 }
 
