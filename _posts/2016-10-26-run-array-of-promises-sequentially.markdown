@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Run promises sequentially"
+date:   2016-10-02 23:43:00
+categories: Promises, Javascript
+---
+
+
+
 ## Promises mixed with ES2015 higher-order functions
 
 Work in progress
