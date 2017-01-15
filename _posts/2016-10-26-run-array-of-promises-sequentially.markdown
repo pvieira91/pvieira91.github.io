@@ -22,7 +22,7 @@ Promise
 ```
 
 Another great example, this time using reduce function, is execute an array of promises sequentially. 
-Let's suppose that, for some reason I can't imagine, those messages must be delete sequentially. A message can only be deleted if the previous was sucessfully deleted.
+Let's suppose that, for some reason I can't imagine, those messages must be deleted sequentially. A message can only be deleted if the previous has been successfully deleted.
 
 ```javascript
 messages
