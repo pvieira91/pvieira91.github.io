@@ -17,7 +17,7 @@ Mixed with the ES2015 higher-order functions (like reduce or map) we can achieve
 #### Examples
 
 Let's imagine we have an array representing a list of messages that we want to delete. In order to delete a message we need to make a XHR request which is async.
-This situation is well-suited for the use of `map`. 
+This situation is well-suited for the use of `map` (each message will be transformed into a promise). 
 
 ```javascript
 Promise
