@@ -9,8 +9,6 @@ categories: Promises, Javascript
 
 ## Promises mixed with ES2015 higher-order functions
 
-Work in progress
-
 Simply put, promises are great. Really great. They are quite simple, semantic and,  most important, they have completely changed the way we deal with async code (thank god!).
 Mixed with the ES2015 higher-order functions (like reduce or map) we can achieve pretty outstanding results with few lines of code.
 
@@ -44,6 +42,6 @@ messages
     console.log('oops... something went wrong');
   })
   
-  //Note: We could elaborate a bit more on this and implement a mechanism to know which promises have failed and which were successfull but that's the idea of this post.
+  //Note: We could elaborate a bit more on this and implement a mechanism to know which promises have failed and which were successfull but that's not main the idea of this post.
 ```
 
